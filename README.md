@@ -2,7 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=900&lines=AI+BUDHA;Senior+Full+Stack+Engineer;Web+Applications+Architect;Billing+%26+POS+Systems+Developer;Automation+%26+AI+Infrastructure" />
 </h1>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001a00&height=140&section=header&animation=fadeIn"/>
 </p>
